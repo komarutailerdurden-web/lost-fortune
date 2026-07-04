@@ -1,2 +1,2 @@
 # lost-fortune
-lost-fortune-rpg
+A text based rpg game written in c++ based on Michael Dowsons book's
